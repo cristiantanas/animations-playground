@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Animations Playgroud</string>
+    <string name="title_spinner">Spinner animation</string>
+</resources>
